@@ -26,9 +26,9 @@ The implementation focuses on learning the architecture described in the origina
 ## Project Structure
 
 ```
-transformer.ipynb
+Attention is all need.ipynb
+micrograd.py
 README.md
-LICENSE
 ```
 
 ## Current Status
