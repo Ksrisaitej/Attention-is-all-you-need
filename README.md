@@ -26,7 +26,7 @@ The implementation focuses on learning the architecture described in the origina
 ## Project Structure
 
 ```
-Attention is all need.ipynb
+Attention is all you need.ipynb
 micrograd.py
 README.md
 ```
